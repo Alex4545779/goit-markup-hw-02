@@ -126,6 +126,12 @@ ul {
   color: #212121;
 }
 
+.filters button:hover,
+.filters button:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
 .services {
   font-weight: 700;
   font-size: 18px;
