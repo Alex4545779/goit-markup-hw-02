@@ -116,3 +116,25 @@ ul {
   font-size: 14px;
   line-height: 16px;
 }
+
+/* filters */
+
+.filters button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+}
+
+.services {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+}
+
+.services p {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  color: #757575;
+}
