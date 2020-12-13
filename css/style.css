@@ -131,7 +131,10 @@ ul {
   color: #ffffff;
   background-color: #2196f3;
 }
-
+.filters h2 {
+  display: none;
+}
+/* services*/
 .services {
   font-weight: 700;
   font-size: 18px;
