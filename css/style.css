@@ -58,6 +58,9 @@ ul {
   line-height: 60px;
   text-align: center;
 }
+.hero h1 {
+  text-transform: uppercase;
+}
 .button {
   background-color: #2196f3;
   color: #ffffff;
@@ -74,9 +77,10 @@ ul {
 }
 
 .section-advantages {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   line-height: 16px;
+  text-transform: uppercase;
 }
 
 .section-advantages h2 {
@@ -87,6 +91,7 @@ ul {
   font-size: 14px;
   line-height: 24px;
   color: #757575;
+  text-transform: none;
 }
 
 .section-employees {
