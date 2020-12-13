@@ -140,15 +140,15 @@ ul {
 .filters h2 {
   display: none;
 }
-/* services*/
-.services {
+
+.filters {
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
 }
 
-.services p {
-  font-weight: normal;
+.filters p {
+  font-weight: 400;
   font-size: 16px;
   line-height: 30px;
   color: #757575;
